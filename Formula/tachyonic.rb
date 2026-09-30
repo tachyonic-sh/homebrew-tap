@@ -1,7 +1,6 @@
 class Tachyonic < Formula
   desc "Command-line client for Tachyonic"
   homepage "https://tachyonic.co"
-  version "0.9.1"
 
   on_macos do
     on_arm do
